@@ -1,4 +1,2 @@
 # kho chiu vo cung
-
-
-# van dang tim hieu
+xoa 1 vai tu
